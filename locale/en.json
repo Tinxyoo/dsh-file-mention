@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "File mention",
+    "description": "Right-click a file in the workspace tree to add it to the composer as an @ reference, or select text in a file preview and quote it into the composer."
+  }
+}

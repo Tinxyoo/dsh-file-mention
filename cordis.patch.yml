@@ -1,0 +1,4 @@
+- insert:
+    - id: file-mention
+      name: 'dsh-file-mention'
+      config: {}
