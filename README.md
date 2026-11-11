@@ -139,6 +139,10 @@ Slots.listSubTree → sidebar.right.tab.document.actions / shell.overlay
 
 [MIT](LICENSE) © Tinxyoo
 
+## 开放插件市场徽章
+
+[![开放插件市场](https://img.shields.io/endpoint?url=https%3A%2F%2Fdshopen.org%2Fbadge%2Fdsh-file-mention.json)](https://dshopen.org/zh/plugins/dsh-file-mention/)
+
 ## 已知限制
 
 - 内容引用只覆盖文本类预览；PDF / Office 需要另一套文本层选择机制
